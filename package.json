@@ -1,0 +1,1 @@
+{"name":"ayah-quest-cloudflare-backend","version":"4.0.0-cloudflare","private":true,"type":"module","scripts":{"deploy":"wrangler deploy"},"devDependencies":{"wrangler":"^4.130.0"}}
